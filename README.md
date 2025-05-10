@@ -27,8 +27,8 @@ Here’s what the app currently does:
 - **Sensor Data Page**
   - Displays:
     - Light level
-    - Accelerometer values (X, Y, Z)
-    - Temperature (if supported)
+    - Proximity
+    - Magnetometer
 
 - **Responsive Design**
   - Uses Compose for a dynamic UI that adapts to different screen sizes.
@@ -56,7 +56,8 @@ Here’s what the app currently does:
 
 ## 📷 Screenshots
 
-*(Add screenshots here if available)*
+![image](https://github.com/user-attachments/assets/982c1f58-28f8-47b4-a8f5-21d9dec871de)
+
 
 ---
 
